@@ -1,4 +1,4 @@
 game_version=686c3c248980d02f656ac2ba8ff39a9f
-launcher_version=107
-launcher_checksum=8b2c2e10941d1c4a1c8ec1fba33cd1fdf757fbbd3e1e96ae2a5a14c720c5c044
-launcher_size=13057536
+launcher_version=1002
+launcher_checksum=f60131e5d3bcdf90ee45c587b94626c61963a15e40948874673c6f57ea215bc0
+launcher_size=14146048
