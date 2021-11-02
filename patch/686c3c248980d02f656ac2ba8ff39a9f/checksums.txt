@@ -37,7 +37,6 @@ WinLockDLL.dll																													801736			784637			47F470A0	ddb796aade
 zlib.dll																														257024			119055			A979EDCE	431775935da57bfd117e943624f1307a357503c19f8c759937de5bf3d7ccd310
 zlib1.dll																														59904			33778			5BE82914	38a06c0a52de1111deac0dff00680ad0e362c1e2304ec814a64b8fdbb7de7126
 Config/lwsi_En.sif																												433322			106016			0BFFDD89	972485afab32ca5d7fd81fe2458b0c4e5c46f6dd62aef9b9adb6bfd120d96c83
-EnvSet/EnvSet_VER20121204.env																									2152			688				67D43477	f6c902ce2fe4c7424d93816166d66dc97a67861be56be2cf79d266422512352b
 Font/calibri.ttf																												811052			414778			2CEC91C9	0a57aa26592218d4823f6c0a41d2c88055e75d0486e0cc5da6bf14b3d355b11a
 Font/calibrib.ttf																												848720			435833			AD4082B6	50d086d420f4f9aeed6c6805d6ec23b003726a419d2ce78bf17837d3e80e2bbf
 Font/calibrii.ttf																												853348			442524			E6BE1436	d8ecf30d75cc9624513ef07a0e2df52cd109c6e0516efe67c56192de6507ca6e
@@ -2246,8 +2245,6 @@ Pack/WestStation_Col_Hero.i3Pack																								3277763			536688			A2AAD
 Pack/WestStation_Scene.i3Pack																									104669			6852			5B4E4E29	bea4bb177d3050af81cefa405e06c6233fec4a0e0f71eaad0c4e91535836f375
 Pack/WestStation_SubData.i3Pack																									1575302			687300			1AA5B07F	4f58f743dbabf158347611dbd48a39af9b352ad3afb00bc5336f65330e3e6c3c
 Pack/WestStation_TabMinimap.i3Pack																								263429			35107			3BD67604	2f0939d30bd8da7cd5e91725155601b051755b7a74ea35a361a76897c3309575
-Shader/Cache.i3GL																												3413045			222102			7E277CB9	677fc0cbd8c7916c506a5ea80563475590b52becf38a055a8542bf8eac1176d3
-Shader/DefaultSHGL																												3108746			183950			917EBEA1	e1b752e0b7eaa81a0e3a7d6fc40a489fd2aa33619f83b33e99261d07f0f3ce46
 UIRe/Clan_0.i3VTexSub																											2623488			561220			130D89B5	00065d6f90717c3ebb2d1a829ea8fb0cff479f34fbe4b911c1cdb6aee97b6ea9
 UIRe/Ingame_0.i3VTexSub																											2099200			81372			3DAE2E4B	a8590513fd0c917e7ffd7a3d0862309238b0baefd727c4ea649eb7eefaa8567b
 UIRe/Interface_0.i3VTexSub																										4196352			896593			3B2595FC	0d04cb0a30de391c08d73d01c05714651886afbbe975f28a2ffbf6089671dac9
@@ -2303,12 +2300,10 @@ USG/USG.fhc																														18539			9325			223C8797	b5c5e28348b77fe
 USG/USG.fhckey																													32				52				0F4977AB	4cf1c8d5fe7f341305f49446b4cb17d40577eb9286093e6b57b0073205c94dbf
 USG/USG.mcf																														1504			1229			38C2D233	26333a49d632d27ee5509fa4a10d0fccf7eca72a80497eae6b68e8654fc51dea
 USG/USG.mcfkey																													52				72				C877AB37	db07de906166bfecb6b4af82dcd2d02e680b23c4be44765091ff254c26aa1e58
-USG/USG_C.log																													32870			307				7BA7A7B2	7353e58b0a2c59fc80879f75981412d1f8219e9ebd070f10ca7d89c81507c002
 USG/USG_d3d9.aah																												1828352			843511			38998D43	c262837132ec58ff7bc9dbbc1389acd41d9e122120640bf722b298d101b5795d
 XIGNCODE/x3.xem																													26112			12480			63BFAE95	c1a5fad0eed0bb3fd5d6197610b297b27f1208d903d916f4a0154cfc27ab316f
 XIGNCODE/xcorona.xem																											3228024			3204654			3FB8EC9D	4e27acc6a6f949bae9425aaa65a3b3c22f3e5975e90dc323ed08a48a34f61cb4
 XIGNCODE/xcorona_x64.xem																										4047736			4011373			D86169A4	d6b50cb4aa917d79072ed3d6631d39af582c6181efa72bcad6bb0585ba23926a
-XIGNCODE/xigncode.log																											960000			343559			3AD354FB	3eaed1a71b2faaf94c65e6bf07c13b9763591b061f1360eb44cae850f442c5ef
 XIGNCODE/xm.exe																													357008			131505			76DD602E	0b28a9f092657cb78d2531326fca7c6fca11f32f6d4af68c5b0365d1194debaa
 XIGNCODE/xmag.xem																												8015872			7565581			3427DB8E	4ad7260fb07e4aca12fb52a61a5dd1aaa21a168528106dd077b92d77900252cf
 XIGNCODE/xnina.xem																												1490944			1429208			7C46239D	2e928090bc4401987e39ba7f56ec651c88f098096498e960a95d1062a68abf23
