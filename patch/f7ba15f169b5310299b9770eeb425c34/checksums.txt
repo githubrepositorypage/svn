@@ -36,7 +36,7 @@ UserFileList.dat																												261945			82326			8A72B4CB	b53f565b8f
 WinLockDLL.dll																													801736			784637			47F470A0	ddb796aadeda2a50a9acb88a51a6041f0ceb6d80626702201f9a96e927c19589
 zlib.dll																														257024			119055			A979EDCE	431775935da57bfd117e943624f1307a357503c19f8c759937de5bf3d7ccd310
 zlib1.dll																														59904			33778			5BE82914	38a06c0a52de1111deac0dff00680ad0e362c1e2304ec814a64b8fdbb7de7126
-Config/lwsi_En.sif																												433322			106016			0BFFDD89	972485afab32ca5d7fd81fe2458b0c4e5c46f6dd62aef9b9adb6bfd120d96c83
+Config/lwsi_En.sif																												829318			123761			8D6FC4DE	a5ba5e6e196be346bb08d2c996eefd34c69d49a814da9671f9d94888cb10c4c5
 Font/calibri.ttf																												811052			414778			2CEC91C9	0a57aa26592218d4823f6c0a41d2c88055e75d0486e0cc5da6bf14b3d355b11a
 Font/calibrib.ttf																												848720			435833			AD4082B6	50d086d420f4f9aeed6c6805d6ec23b003726a419d2ce78bf17837d3e80e2bbf
 Font/calibrii.ttf																												853348			442524			E6BE1436	d8ecf30d75cc9624513ef07a0e2df52cd109c6e0516efe67c56192de6507ca6e
