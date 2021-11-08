@@ -3314,7 +3314,7 @@ Chara/REBEL_Male/Chara_SWAT_Male_Assault3.i3AnimPack																			863992			
 Chara/REBEL_Male/Chara_SWAT_Male_DualHandGun.i3AnimPack																			1234664			499965			03D5FEF4	09ae8dea8631dd7cfe063f336974064287b7ab9ff5b08c68cbb3da9ec7a47e57
 Chara/REBEL_Male/Chara_SWAT_Male_HandGun.i3AnimPack																				966896			344769			9671A81F	50923835c4469f0578bd9860b75d94fbecf49993098de4357524331601775d40
 Chara/REBEL_Male/REBEL_Male.I3CHR																								3195180			293493			4DC901C8	ed3a7a7a7fcc9708952e4fc4365d9af9e2fb3c706ed90fcfa73ae8fac629604e
-Chara/REBEL_Male(Red Bulls_Ninja)/REBEL_Red Bulls_Ninja.I3CHR																	3179158			291663			0145C2C6	0fa5c46cb6c620fa4a8d606b34c7a65bb4af3c8318c4b3009c519f2e22025c26
+Chara/REBEL_Male(RedBulls_Ninja)/REBEL_RedBulls_Ninja.I3CHR																		3179158			291663			0145C2C6	0fa5c46cb6c620fa4a8d606b34c7a65bb4af3c8318c4b3009c519f2e22025c26
 Chara/REBEL_Male_GRS/REBEL_Male_GRS.I3CHR																						3195713			293489			D769E46B	85bb8f45183e7d54381a0bb49f2f2cdaa2fe6dde7e439b4d30a1d5a5fd8e4752
 Chara/SWAT_Female/Chara_SWAT_Female_Aks74u.i3AnimPack																			61164			18078			C6A5F526	3d8400cd8da3cbdae9c6893273769d956073ad9d9551f5fe80e197f8fb442015
 Chara/SWAT_Female/Chara_SWAT_Female_Assault.i3AnimPack																			2060874			866663			6745C60F	e4696d070544db17b191f18c5e0197bdb3149faa4b88e02c4670b0edce123d6d
