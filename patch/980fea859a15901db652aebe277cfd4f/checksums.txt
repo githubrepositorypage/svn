@@ -2575,8 +2575,6 @@ Pack/WestStation_Col_Hero.i3Pack																								3324718			551355			5A0E7
 Pack/WestStation_Scene.i3Pack																									104603			6788			C4B6732D	6147b1e4d38f3bca13625eb0cbb5411efd6cf758823d3168621463c128fd85c8
 Pack/WestStation_SubData.i3Pack																									1575302			691282			486BC966	3ffb777c94eb2f712a6df30970bc64d20480290c2a126db384900b1038b00122
 Pack/WestStation_Textures.i3Pack																								14511298		9999839			DEF6CA67	92a6d48442d31b9463c0ad2894d990a72c1072dcf29ea4b7ff3784ae93bc0c93
-Shader/Cache.i3GL																												6133505			330337			3366E40A	7d1b7904bc427f715d732cab06d9f1fb371698fbfba6e4944895fe59e86946fc
-Shader/DefaultSHGL																												6070588			322047			E84742BC	b10331a1b1160fec80cb8d28504cd3a039cabbdacd1a2ee6d0834934e6dd57ef
 UIRe/Clan_0.i3VTexSub																											2623488			561220			130D89B5	00065d6f90717c3ebb2d1a829ea8fb0cff479f34fbe4b911c1cdb6aee97b6ea9
 UIRe/Ingame_0.i3VTexSub																											2099200			81372			3DAE2E4B	a8590513fd0c917e7ffd7a3d0862309238b0baefd727c4ea649eb7eefaa8567b
 UIRe/Interface_0.i3VTexSub																										4196352			896593			3B2595FC	0d04cb0a30de391c08d73d01c05714651886afbbe975f28a2ffbf6089671dac9
