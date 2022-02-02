@@ -45,8 +45,6 @@ PBConfig.exe																													368448			181363			1D14123B	1a7311bd347e
 PhysXCore.2.8.1.dll																												5445952			1771113			F5803432	f7c5c72cb5bb328d044662f8940bd41370a2eab1bc5e84485c89941d630dd3b2
 PhysXLoader.2.8.1.dll																											128320			52342			13495361	7b7b16499c4b671bd7350f28e4fb6e6cda7eae2a5b7aa206c2afd930936639c9
 PointBlank.exe																													10031944		3182948			47754B8E	a24bcb68dc777b31e94f39a8e1bb8c95694bfdeb74c8ab0cd1b73d037521ab58
-PreCommon.pbc																													2073			476				2B44C11D	e71c3f22e9860b12f5c3ca74b36dbb825b67ff09eb705dee6645aec0549e6f9d
-ucsvc.exe																														6921560			6581446			E2BBF1C1	5aedcb89ece4fa8cc1afa22677a10b30c8d2ad1602e2a0e74f41843465e68645
 UserFileList.dat																												261945			82326			8A72B4CB	b53f565b8f5e7bd0ae73f70dfee5f256b764299f7d2a36501ef690adab95e03e
 xigncode3_loader.exe																											17180504		17026802		A0891C76	6afd9b794b4dce84029910357714d30613bef4720e6ca4c04a40dd56f25e5aff
 zlib.dll																														268608			126932			DD8DD837	443fe1eb27ccd55d7761c549d7010b9a51361a417c1373908d43c5deb63a3f0a
@@ -956,7 +954,7 @@ Pack/Library_Scene.i3Pack																										282823			14819			827B4CE9	fa7
 Pack/Library_SubData.i3Pack																										2623829			646130			B3CDEF80	4fd2ee2fbc4419629362a8c0135c17c81ce072f4fb6877099eb7991157b1a41b
 Pack/Library_TabMinimap.i3Pack																									263356			33862			E428DA71	26c765fffef5b5ed2e5607f8ac765bfb2b485df8f67d906c223a95f32f477fcb
 Pack/Library_Textures.i3Pack																									3987621			2604886			86121F79	9729f0efdc09e311b5910d963d7dd8f9a90748bba949e50bab4f638fbc20d5c8
-Pack/Locale_ProjectTurkey_String.i3Pack																							9983051			895106			70E1CF18	9ec75d21fd7942bd1dd85a7cff6278a707efc90ee19e911318cb522d337505e8
+Pack/Locale_ProjectTurkey_String.i3Pack																							9988601			895473			9EF17FC8	01a12064d00a6052e231f4eee73ccfa38427975aad69945c5e32fddd20934d4f
 Pack/Luxville.i3Pack																											3961012			1291055			9E8C1E6F	ae4337dc50a74a891de8b4799f5f4356758c0c78d818b80c11a84aeb5594b36f
 Pack/Luxville_Col.i3Pack																										2653903			991930			F9EF58EF	f26169ef98cf56b2311b851fc1a101c36c9c82c0878fd6bf1a2f39e2baae14b4
 Pack/Luxville_Col_Hero.i3Pack																									978525			204596			449F9ADF	7e8e5be1b20b731d07ebbe68adcb344139665d6a2b37d0468253fe2f2967cea5
