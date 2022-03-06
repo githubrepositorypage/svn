@@ -46,10 +46,11 @@ PhysXCore.2.8.1.dll																												5445952			1771113			F5803432	f7c5
 PhysXLoader.2.8.1.dll																											128320			52342			13495361	7b7b16499c4b671bd7350f28e4fb6e6cda7eae2a5b7aa206c2afd930936639c9
 PointBlank.exe																													10031944		3182948			47754B8E	a24bcb68dc777b31e94f39a8e1bb8c95694bfdeb74c8ab0cd1b73d037521ab58
 UserFileList.dat																												261945			82326			8A72B4CB	b53f565b8f5e7bd0ae73f70dfee5f256b764299f7d2a36501ef690adab95e03e
+WinLockDLL.dll																													800192			783526			CD3BC51E	af839eae9ebe0e500cce1e5784cef9ae05128d6d94c18a1ffe383d45c4d1263d
 xigncode3_loader.exe																											17180504		17026802		A0891C76	6afd9b794b4dce84029910357714d30613bef4720e6ca4c04a40dd56f25e5aff
 zlib.dll																														268608			126932			DD8DD837	443fe1eb27ccd55d7761c549d7010b9a51361a417c1373908d43c5deb63a3f0a
 zlib1.dll																														68416			39831			F99D441A	6502ef47b14fe926ce9ad49c2a6d9a6191a4f891a8be6d716ed0c4485296f080
-Config/lwsi_En.sif																												1223336			134659			44161992	aa86d0cea0ee64784dd60f6a30a266890bba805b0858f8f682577ff1f09be471
+Config/lwsi_En.sif																												1223344			134665			17986D4B	4db6f45911fb60f5d0666c5221cc3bf2dc3e6631ec26064f0b78daacc43c2991
 Font/calibri.ttf																												811052			414778			2CEC91C9	0a57aa26592218d4823f6c0a41d2c88055e75d0486e0cc5da6bf14b3d355b11a
 Font/calibrib.ttf																												848720			435833			AD4082B6	50d086d420f4f9aeed6c6805d6ec23b003726a419d2ce78bf17837d3e80e2bbf
 Font/calibrii.ttf																												853348			442524			E6BE1436	d8ecf30d75cc9624513ef07a0e2df52cd109c6e0516efe67c56192de6507ca6e
