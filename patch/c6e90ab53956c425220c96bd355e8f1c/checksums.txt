@@ -50,7 +50,7 @@ WinLockDLL.dll																													800192			783526			CD3BC51E	af839eae9e
 xigncode3_loader.exe																											17180504		17026802		A0891C76	6afd9b794b4dce84029910357714d30613bef4720e6ca4c04a40dd56f25e5aff
 zlib.dll																														268608			126932			DD8DD837	443fe1eb27ccd55d7761c549d7010b9a51361a417c1373908d43c5deb63a3f0a
 zlib1.dll																														68416			39831			F99D441A	6502ef47b14fe926ce9ad49c2a6d9a6191a4f891a8be6d716ed0c4485296f080
-Config/lwsi_En.sif																												1223344			134665			B376E8CA	24750a01ff13b8c1e8e0dab26e7a42a0c1a56fe35bc3d9472336db6be2f48985
+Config/lwsi_En.sif																												1223345			134665			F4CFE77D	7101abbae57478ac746ff9e0817cc5f33a0d719a56a3b90203b576eceb4aa7e1
 Font/calibri.ttf																												811052			414778			2CEC91C9	0a57aa26592218d4823f6c0a41d2c88055e75d0486e0cc5da6bf14b3d355b11a
 Font/calibrib.ttf																												848720			435833			AD4082B6	50d086d420f4f9aeed6c6805d6ec23b003726a419d2ce78bf17837d3e80e2bbf
 Font/calibrii.ttf																												853348			442524			E6BE1436	d8ecf30d75cc9624513ef07a0e2df52cd109c6e0516efe67c56192de6507ca6e
